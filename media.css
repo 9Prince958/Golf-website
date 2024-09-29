@@ -1,0 +1,9 @@
+@media(max-width:450px){
+    #nav{
+        display:flex;
+        flex-direction:column;
+    }
+    
+
+    
+}.
